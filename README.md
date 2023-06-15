@@ -8,11 +8,11 @@ The following images illustrate all device sizes, from extra small to extra larg
 
 Extra Small (Size < 576px) and Small (Size >= 576px):
 
-[portfolio-website-to-build](https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/porfolio-about-me-and-skills-xs-v1.png)
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/porfolio-about-me-and-skills-xs-v1.png
 
 Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px):
 
-[portfolio-website-to-build](https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/porfolio-about-me-and-skills-md-v1.png)
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/porfolio-about-me-and-skills-md-v1.png
 
 **Note**
 
